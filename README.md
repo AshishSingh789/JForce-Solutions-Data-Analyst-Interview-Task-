@@ -1,14 +1,12 @@
 # Data Analyst Interview Task - Jforce Solutions
 
 ## Overview
-## This repository contains the solution to the Data Analyst task given during an
-## interview with Jforce Solutions, an IT company. The task involves importing, cleaning, and transforming datasets, 
-## followed by the creation of a Power BI dashboard for data visualization.
+## This repository contains the solution to the Data Analyst task given during an interview with Jforce Solutions, an IT company.The task involves importing, cleaning, and transforming datasets, followed by the creation of a Power BI dashboard for data visualization.
 
 ##Task Breakdown
 The task was divided into three main steps:
 
-##Data Import and Cleaning (Using Python)
+## Data Import and Cleaning (Using Python)
 
 ### Import data into a MySQL database.
 
@@ -27,7 +25,7 @@ Line Chart: Monthly revenue trends for 2023.
 Table: Top 5 products by revenue.
 Additional insights were included based on business requirements.
 Setup
-##Prerequisites
+## Prerequisites
 MySQL Database: Used for storing the cleaned data.
 Python: For data cleaning and transformation.
 Python libraries required:
@@ -35,3 +33,5 @@ pandas
 mysql-connector
 numpy
 Power BI Desktop: For creating interactive dashboards
+
+
